@@ -1,0 +1,3 @@
+[shell]
+args = ["--init-command", "cat $HOME/.cache/wal/sequences"]
+program = "/usr/bin/fish"
