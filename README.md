@@ -1,5 +1,11 @@
 # BSPWM dotfiles
 
+<p float="left">
+  <img src="https://github.com/toadFrogski/dotfiles/blob/0e5168d1f41542226216969bddb2b9abd96e0103/docs/preview1.jpg" width='500' />
+  <img src="https://github.com/toadFrogski/dotfiles/blob/0e5168d1f41542226216969bddb2b9abd96e0103/docs/preview2.png" width='500' /> 
+</p>
+
+
 This is just my homemade config for bspwm.
 
 ## Setup
