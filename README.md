@@ -17,7 +17,6 @@ This is just my homemade config for bspwm.
 * [Terminal] alacritty
 * [Shell] fish
 * [Bar] polybar
-* [Shell] fish
 * pyWal
 
 
